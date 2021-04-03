@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordvidex)](https://github.com/lordvidex/)  -->
 
 <a href="https://github.com/lordvidex">
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=lordvidex&show_icons=true&theme=light&line_height=27" alt="Evan's github stats"/>
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=lordvidex&show_icons=true&theme=onedark&line_height=27" alt="Evan's github stats"/>
 </a>
 
 
