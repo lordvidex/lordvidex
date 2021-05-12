@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on [Task Meter](https://task-meter.web.app)
-- 🌱 I’m currently learning [JavaScript/ExpressJS](https://expressjs.com/)
+- 🌱 I’m currently learning TypeScript
 - 👯 I’m looking to collaborate on Mobile Development
 - 🤔 I’m looking for help with Mentorship and Internship
 - 💬 Ask me about Flutter😍
