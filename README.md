@@ -1,4 +1,4 @@
-### Hi there, It's your favorite Skreёn MONGRR 👋
+### Hi there, It's your favorite DEV .uno 👋
 <img src="https://komarev.com/ghpvc/?username=lordvidex&label=Views&color=blue&style=plastic" />
 <!--
 **lordvidex/lordvidex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,12 +6,12 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on [Task Meter](https://task-meter.web.app)
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning iOS development with Swift
 - 👯 I’m looking to collaborate on Mobile Development
 - 🤔 I’m looking for help with Mentorship and Internship
-- 💬 Ask me about Flutter😍
+- 💬 Ask me about Flutter😍 and backend development with NodeJS | NestJS/TypeScript | ExpressJS 🔮
 - 📫 How to reach me: [Twitter - @lordvidex](https://twitter.com/lordvidex) , [Email - evans.dev99@gmail.com](mailto:evans.dev99@gmail.com?body=Hello%20Evans,)
-- ⚡ Fun fact: I'd recursively ask a Genie🔮 for a Genie🔮 if i got 3 wishes 🙃
+- ⚡ Fun fact: I play CODM (.uno)🙃
 
 
 <a href="https://github.com/lordvidex">
