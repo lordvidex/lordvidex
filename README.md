@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Task Meter](https://task-meter.web.app)
 - 🌱 I’m currently learning iOS development with Swift
-- 👯 I’m looking to collaborate on Mobile Development
+- 👯 I’m looking to collaborate on Mobile Development and Machine learning
 - 🤔 I’m looking for help with Mentorship and Internship
 - 💬 Ask me about Flutter😍 and backend development with NodeJS | NestJS/TypeScript | ExpressJS 🔮
 - 📫 How to reach me: [Twitter - @lordvidex](https://twitter.com/lordvidex) , [Email - evans.dev99@gmail.com](mailto:evans.dev99@gmail.com?body=Hello%20Evans,)
