@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on [Task Meter](https://task-meter.web.app)
+- 🔭 I’m currently working on Hawk Shipping (coming soon)
 - 🌱 I’m currently learning iOS development with Swift
 - 👯 I’m looking to collaborate on Mobile Development and Machine learning
 - 🤔 I’m looking for help with Mentorship and Internship
