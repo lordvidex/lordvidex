@@ -1,4 +1,4 @@
-### Hi there, It's your favorite DEV .uno 👋
+### Hi there, It's your favorite DEV lordvidex 👋
 <img src="https://komarev.com/ghpvc/?username=lordvidex&label=Views&color=blue&style=plastic" />
 <!--
 **lordvidex/lordvidex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
