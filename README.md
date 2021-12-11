@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning iOS development with Swift
 - 👯 I’m looking to collaborate on Mobile Development and Machine learning
 - 🤔 I’m looking for help with Mentorship and Internship
-- 💬 Ask me about Flutter😍 and backend development with NodeJS | NestJS/TypeScript | ExpressJS 🔮
+- 💬 Ask me about Flutter😍 and backend development with NestJS/TypeScript 🔮
 - 📫 How to reach me: [Twitter - @lordvidex](https://twitter.com/lordvidex) , [Email - evans.dev99@gmail.com](mailto:evans.dev99@gmail.com?body=Hello%20Evans,)
 - ⚡ Fun fact: I love writing or seeing CLEAN CODE😊
 
