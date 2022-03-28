@@ -33,3 +33,5 @@ Here are some ideas to get you started:
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
   </a>
 -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
