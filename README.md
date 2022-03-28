@@ -13,15 +13,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Twitter - @lordvidex](https://twitter.com/lordvidex) , [Email - evans.dev99@gmail.com](mailto:evans.dev99@gmail.com?body=Hello%20Evans,)
 - ⚡ Fun fact: Ugly code is the new beautiful 
 
-
+<div>
 <a href="https://github.com/lordvidex">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordvidex&theme=light" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordvidex&theme=light" />
 </a>   
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordvidex)](https://github.com/lordvidex/)  -->
 
 <a href="https://github.com/lordvidex">
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=lordvidex&show_icons=true&theme=light&line_height=27" alt="Evan's github stats"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=lordvidex&show_icons=true&theme=light&line_height=27" alt="Evan's github stats"/>
 </a>
+</div>
 
 
 <!--
@@ -33,7 +34,6 @@ Here are some ideas to get you started:
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
   </a>
 -->
-<div>
 <!--START_SECTION:waka-->
 
 ```text
@@ -41,4 +41,3 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-</div>
