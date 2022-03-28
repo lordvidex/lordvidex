@@ -33,6 +33,7 @@ Here are some ideas to get you started:
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
   </a>
 -->
+<div>
 <!--START_SECTION:waka-->
 
 ```text
@@ -40,3 +41,4 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+</div>
