@@ -35,9 +35,80 @@ Here are some ideas to get you started:
   </a>
 -->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-50%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-79-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 134 Contributions in the Year 2022
+ > 
+> 📦 96.0 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 76 Public Repositories 
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I'm a Night 🦉** 
 
 ```text
-No activity tracked
+🌞 Morning    76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.02% 
+🌆 Daytime    109 commits    █████░░░░░░░░░░░░░░░░░░░░   21.54% 
+🌃 Evening    168 commits    ████████░░░░░░░░░░░░░░░░░   33.2% 
+🌙 Night      153 commits    ███████░░░░░░░░░░░░░░░░░░   30.24%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       73 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.43% 
+Tuesday      82 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.21% 
+Wednesday    88 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.39% 
+Thursday     67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.24% 
+Friday       59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.66% 
+Saturday     76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.02% 
+Sunday       61 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.06%
+
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Moscow
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Dart** 
+
+```text
+Dart                     26 repos            ███████████░░░░░░░░░░░░░░   47.27% 
+Java                     13 repos            ██████░░░░░░░░░░░░░░░░░░░   23.64% 
+Swift                    7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.73% 
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.45% 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.64%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/lordvidex/lordvidex/main/charts/bar_graph.png) 
+
+
+ Last Updated on 29/03/2022 01:19:42 UTC
 <!--END_SECTION:waka-->
