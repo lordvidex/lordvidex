@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Ugly code is the new beautiful 
 
 <div>
-<a href="https://github.com/lordvidex">
+<!-- <a href="https://github.com/lordvidex">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordvidex&theme=light" />
-</a>   
+</a>    -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordvidex)](https://github.com/lordvidex/)  -->
 
 <a href="https://github.com/lordvidex">
