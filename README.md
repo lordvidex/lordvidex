@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Mentorship, Internship or scholarship.
 - 💬 Ask me about Flutter😍 and backend development with NestJS/Spring Boot 🔮
 - 📫 How to reach me: [Twitter - @lordvidex](https://twitter.com/lordvidex) , [Email - evans.dev99@gmail.com](mailto:evans.dev99@gmail.com?body=Hello%20Evans,)
+- Why do I love Java? ...because they have **BEANS**🤤😋
 
 <div>
 <!-- <a href="https://github.com/lordvidex">
