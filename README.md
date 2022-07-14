@@ -1,5 +1,5 @@
 ### Hi there, It's your favorite DEV lordvidex 👋
-<img src="https://komarev.com/ghpvc/?username=lordvidex&label=Views&color=blue&style=plastic" />
+<img src="https://komarev.com/ghpvc/?username=lordvidex&label=Views&color=blue&style=plastic" /> <a href="https://wakatime.com/@0e56db35-d16b-410a-acc0-4085055304bf"><img src="https://wakatime.com/badge/user/0e56db35-d16b-410a-acc0-4085055304bf.svg" alt="Total time coded since Mar 29 2022" /></a>
 <!--
 **lordvidex/lordvidex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
