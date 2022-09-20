@@ -6,10 +6,10 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on [Hawk Shipping](https://hawkshipping.com), [VarsityScape](https://varsityscape.com), [PayTrybe](https://www.paytrybe.com) and [Boayant](https://www.github.com/boayant-dev)
-- 🌱 I’m currently learning iOS development with Swift, ROS Noetic (for Robotics Systems) with C++ and Python
-- 👯 I’m looking to collaborate on Mobile Development / Robotics
+- 🌱 I’m currently learning iOS development with Swift, ROS Noetic (for Robotics Systems) with C++ and Python, and Backend Development with Golang🧙🏼
+- 👯 I’m looking to collaborate on Backend Development / Robotics
 - 🤔 I’m looking for help with Mentorship, Internship or scholarship.
-- 💬 Ask me about Flutter😍 and backend development with NestJS/Spring Boot 🔮
+- 💬 Ask me about Flutter😍 and backend development with NestJS (Typescript) /Spring Boot (Java) 🔮 / Golang 
 - 📫 How to reach me: [Twitter - @lordvidex](https://twitter.com/lordvidex) , [Email - evans.dev99@gmail.com](mailto:evans.dev99@gmail.com?body=Hello%20Evans,)
 - Why do I love Java? ...because they have **BEANS**🤤😋
 
