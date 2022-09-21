@@ -1,9 +1,5 @@
 ### Hi there, It's your favorite DEV lordvidex 👋
 <img src="https://komarev.com/ghpvc/?username=lordvidex&label=Views&color=blue&style=plastic" /> <a href="https://wakatime.com/@0e56db35-d16b-410a-acc0-4085055304bf"><img src="https://wakatime.com/badge/user/0e56db35-d16b-410a-acc0-4085055304bf.svg" alt="Total time coded since Mar 29 2022" /></a>
-<!--
-**lordvidex/lordvidex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
 
 - 🔭 I’m currently working on [Hawk Shipping](https://hawkshipping.com), [VarsityScape](https://varsityscape.com), [PayTrybe](https://www.paytrybe.com) and [Boayant](https://www.github.com/boayant-dev)
 - 🌱 I’m currently learning iOS development with Swift, ROS Noetic (for Robotics Systems) with C++ and Python, and Backend Development with Golang🧙🏼
@@ -18,12 +14,12 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordvidex&theme=light" />
 </a>    -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordvidex)](https://github.com/lordvidex/)  -->
-
 <a href="https://github.com/lordvidex">
  <img src="https://github-readme-stats.vercel.app/api?username=lordvidex&show_icons=true&theme=light&line_height=27" alt="Evan's github stats"/>
 </a>
 </div>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lordvidex&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
 <!--
   <a href="https://github.com/iampawan/FlutterExampleApps">
