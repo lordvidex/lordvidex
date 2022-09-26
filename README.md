@@ -1,11 +1,11 @@
 ### Hi there, It's your favorite DEV lordvidex 👋
 <img src="https://komarev.com/ghpvc/?username=lordvidex&label=Views&color=blue&style=plastic" /> <a href="https://wakatime.com/@0e56db35-d16b-410a-acc0-4085055304bf"><img src="https://wakatime.com/badge/user/0e56db35-d16b-410a-acc0-4085055304bf.svg" alt="Total time coded since Mar 29 2022" /></a>
 
-- 🔭 I’m currently working on [Hawk Shipping](https://hawkshipping.com), [VarsityScape](https://varsityscape.com), [PayTrybe](https://www.paytrybe.com) and [Boayant](https://www.github.com/boayant-dev)
-- 🌱 I’m currently learning iOS development with Swift, ROS Noetic (for Robotics Systems) with C++ and Python, and Backend Development with Golang🧙🏼
+- 🔭 I’m currently working on [VarsityScape](https://varsityscape.com) and [PayTrybe](https://www.paytrybe.com)
+- 🌱 I’m currently learning ROS Noetic (for Robotics Systems) with C++ and Python, Backend and Cloud Development with Golang🧙🏼
 - 👯 I’m looking to collaborate on Backend Development / Robotics
 - 🤔 I’m looking for help with Mentorship, Internship or scholarship.
-- 💬 Ask me about Flutter😍 and backend development with NestJS (Typescript) /Spring Boot (Java) 🔮 / Golang 
+- 💬 Ask me about Programming with Java❤️, Cross Platform mobile development with Flutter😍 and iOS development with Swift🚀.
 - 📫 How to reach me: [Twitter - @lordvidex](https://twitter.com/lordvidex) , [Email - evans.dev99@gmail.com](mailto:evans.dev99@gmail.com?body=Hello%20Evans,)
 - Why do I love Java? ...because they have **BEANS**🤤😋
 
