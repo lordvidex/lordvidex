@@ -1,14 +1,15 @@
-### Hi there, It's your favorite DEV lordvidex 👋
-<img src="https://komarev.com/ghpvc/?username=lordvidex&label=Views&color=blue&style=plastic" /> <a href="https://wakatime.com/@0e56db35-d16b-410a-acc0-4085055304bf"><img src="https://wakatime.com/badge/user/0e56db35-d16b-410a-acc0-4085055304bf.svg" alt="Total time coded since Mar 29 2022" /></a>
-
-- 🔭 I’m currently working on [VarsityScape](https://varsityscape.com) and [PayTrybe](https://www.paytrybe.com)
-- 🌱 I’m currently learning ROS Noetic (for Robotics Systems) with C++ and Python, Backend and Cloud Development with Golang🧙🏼
-- 👯 I’m looking to collaborate on Backend Development / Robotics
-- 🤔 I’m looking for help with Mentorship, Internship or scholarship.
-- 💬 Ask me about Programming with Java❤️, Cross Platform mobile development with Flutter😍 and iOS development with Swift🚀.
+## Hi there, It's your favorite DEV lordvidex 👋
+<img src="https://komarev.com/ghpvc/?username=lordvidex&label=Views&color=blue&style=plastic" /> <a href="https://wakatime.com/@0e56db35-d16b-410a-acc0-4085055304bf"><img src="https://wakatime.com/badge/user/0e56db35-d16b-410a-acc0-4085055304bf.svg" alt="Total time coded since Mar 29 2022" /></a>  
+![](https://github-profile-trophy.vercel.app/?username=lordvidex)
+- 🔭 I’m work at [VarsityScape](https://varsityscape.com) and [PayTrybe](https://www.paytrybe.com)
+- 🌱 I’m currently learning Robotics with frameworks such as [ROS Noetic](ros.org), [ev3dev](www.ev3dev.org) and languages (C++, Python, Rust and Go).
+- ⛏️ I'm building a career in Backend and Cloud Development with Golang 🧙🏼 to solve problems for the next million users 🤌
+- 👯 I’m looking to collaborate on interesting, tasking and **unique** open source projects.
+- 🤔 I’m looking for help with Mentorship, Sponsorship or scholarship.
+- 💬 Ask me about Programming with Go⚡️ and Java❤️, Cross Platform development with Flutter😍 and iOS development with Swift🚀.
 - 📫 How to reach me: [Twitter - @lordvidex](https://twitter.com/lordvidex) , [Email - evans.dev99@gmail.com](mailto:evans.dev99@gmail.com?body=Hello%20Evans,)
-- Why do I love Java? ...because they have **BEANS**🤤😋
 
+### My Github Activity Metrics
 <div>
 <!-- <a href="https://github.com/lordvidex">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordvidex&theme=light" />
