@@ -8,7 +8,11 @@
 - 🤔 I’m looking for help with Mentorship, Sponsorship or scholarship.
 - 💬 Ask me about Programming with Go⚡️ and Java❤️, Cross Platform development with Flutter😍 and iOS development with Swift🚀.
 - 📫 How to reach me: [Twitter - @lordvidex](https://twitter.com/lordvidex) , [Email - evans.dev99@gmail.com](mailto:evans.dev99@gmail.com?body=Hello%20Evans,)
-
+  
+    
+🎤 Keep your Java beans away from Go 🌚
+  
+  
 ### My Github Activity Metrics
 <div>
 <!-- <a href="https://github.com/lordvidex">
